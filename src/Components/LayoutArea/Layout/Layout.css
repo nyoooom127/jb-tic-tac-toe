@@ -1,0 +1,9 @@
+.Layout {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-rows: 167.2px 1fr 5%;
+}
+
+.Layout, .Layout > * {
+    height: 100%;
+}

@@ -1,0 +1,11 @@
+.Cell {
+	border: 1px solid;
+    height: 150px;
+    width: 150px;
+}
+
+.Cell > img {
+	/* border: 1px solid; */
+    height: 150px;
+    width: 150px;
+}

@@ -1,0 +1,15 @@
+.Header {
+    height: 100%;
+	text-align: center;
+    border-bottom: 1px solid;
+    padding: 1.5rem;
+    box-sizing: border-box;
+}
+
+.Header > h1 {
+    color: purple;
+    font-size: 3rem;
+    margin: 0;
+}
+
+
